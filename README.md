@@ -3,3 +3,4 @@ the perfect multitool containing houndreds if different scripts and other multit
 
 to run, double click main.bat and wait for it to start.
 if youre having any trouble contact @teamremoteabushers on discord and ill happily help you out!
+(for it to actually run, you have to download all the files and you can do that by clicking the green "code" button and pressing download zip)
